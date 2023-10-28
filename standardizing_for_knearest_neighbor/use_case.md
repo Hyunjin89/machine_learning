@@ -1,4 +1,4 @@
-Certainly! Let's simplify it with a use case.
+Let's simplify it with a use case.
 
 Imagine you're trying to use the K-nearest neighbor (KNN) algorithm to recommend movies based on user ratings. Each movie has two features: "rating" (on a scale of 1 to 10) and "number of reviews." You want to find similar movies to a user's favorite movie.
 
